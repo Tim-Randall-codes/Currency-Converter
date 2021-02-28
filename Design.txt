@@ -1,0 +1,18 @@
+Converts from the 10 major currencies to the other. 
+
+Australian dollar AUD
+USD
+Canadian dollar CAD
+Euro EUR
+Japanese Yen JPY
+Pound sterling GBP
+Swiss franc CHF
+Chinese renminbi CNH
+Hong Kong Dollar HKD
+New Zealand Dollar NZD
+
+There is a box you enter dollar amount into. There is a drop down box that lets the user put in what currency they entered. It is next to it, the location will make it evident to the user what it is. There is a button next to this that presses convert.
+
+Once convert is pressed, the conversion for each of the 10 currencies appears in the boxes. Each box will have a label next to it, explaining what it is. 
+
+There is a label explaining to the user that this is the rates on a certain date (I will later have it find the current rates online)
